@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hey 👋 I'm Gabriel Campos</h1>
 
-<!--
-**gcampos04/gcampos04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Front-End Developer focused on building modern, scalable and user-centered web applications.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Front-End+Developer;Building+Modern+Web+Experiences;React+%7C+TypeScript+%7C+Next.js;UI%2FUX+%26+Product+Thinking" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,tailwind,styledcomponents,git,vscode" />
+</p>
+
+---
+
+## 💼 About Me
+
+```ts
+const gabriel = {
+  role: "Front-End Developer",
+  location: "São Paulo, Brazil",
+  focus: [
+    "Frontend Architecture",
+    "Product Development",
+    "UI/UX",
+    "Performance Optimization",
+    "Design Systems"
+  ],
+  currentlyLearning: ["Backend", "Scalable Systems"],
+};
