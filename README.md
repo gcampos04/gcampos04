@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,ts,nodejs,tailwind,git" />
 </p>
 
 <br/>
