@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React;TypeScript;Next.js;Product+Thinking;UI%2FUX" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React;Angular;TypeScript;Next.js;Product+Thinking;UI%2FUX" />
 </p>
 
 <br/>
